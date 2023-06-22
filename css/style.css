@@ -571,7 +571,7 @@ h1, h2, h3, h4, h5, h6 {
   .navbar-custom .bottom-nav .navbar-header .navbar-brand {
     padding: 0px; }
     .navbar-custom .bottom-nav .navbar-header .navbar-brand img {
-      width: 216px; }
+      width: 214px; }
   .navbar-custom .bottom-nav .navbar-nav {
     float: right; }
     .navbar-custom .bottom-nav .navbar-nav li.dropdown:hover .dropdown-menu {
@@ -2327,8 +2327,8 @@ h1, h2, h3, h4, h5, h6 {
   .navbar-custom .bottom-nav {
     padding: 10px 0; }
     .navbar-custom .bottom-nav .navbar-header .navbar-brand img {
-      width: 144px;
-      margin-top: 8px; }
+      width: 256px;
+      margin-top: 1px; }
     .navbar-custom .bottom-nav .navbar-nav > li > .dropdown-menu {
       top: 61px; }
   .navbar-custom .top-bar .contact {
@@ -2691,7 +2691,7 @@ h1, h2, h3, h4, h5, h6 {
               color: #e53935; }
     .navbar-custom .bottom-nav .navbar-header .navbar-brand img {
       width: 144px;
-      margin-top: 8px; }
+      margin-top: 1px; }
   .navbar-custom .top-bar {
     padding: 8px 0; }
     .navbar-custom .top-bar .contact .phone {
